@@ -28,9 +28,9 @@ This repository contains an analysis of coffee shop sales data. The dataset incl
 
 ### 6. Which products are the best-selling in terms of quantity and revenue? 
 #### Best-selling products by revenue: 
-1. *Barista Espresso* - *$91,406.20*  
-2. *Brewed Black* - *$77,081.95*  
-3. *Brewed Chai* - *$70,094.60*  
+1. Barista Expresso - *$91,406.20*  
+2. Brewed Black - *$77,081.95*  
+3. Brewed Chai - *$70,094.60*  
 4. *Gourmet Brewed* - *$72,416.00*  
 5. *Hot Chocolate* - *$47,932.00*
 
